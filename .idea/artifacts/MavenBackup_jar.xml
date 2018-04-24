@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MavenBackup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MavenBackup_jar</output-path>
+    <root id="archive" name="MavenBackup.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/Maven/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="MavenBackup" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
